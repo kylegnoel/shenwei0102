@@ -1,5 +1,5 @@
 
-<img align='right' src='https://media.giphy.com/media/AHMrImYQ0ZCQU/giphy.gif'>
+<img align='right' src='pepe.gif'>
 
 ### Hello Explorer 👋,
 
