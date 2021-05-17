@@ -7,10 +7,6 @@ You must have stumbled upon my Github profile using the link I gave you somewher
 
 My name is Shen Wei, I am a Computer Science student at Purdue University. I am also a part-time Full-stack Engineer at the Purdue Center of Career Opportunity, maintaining and building the department's website.
 
-I am trying to find an internship in Summer 2021 so that I can gain more experience in the Software Engineering world. It is Feburary 2021 and I am still looking for it. :')
-
-If you are a recruiter, please give me a chance to at least interview. :pleading_face: I promise I will not disappoint.
-
 <p align="center">
 	<h3>📫 Connect with me</h3>
 	<a href="https://github.com/shenwei0102"><img src="https://img.shields.io/github/followers/shenwei0102?label=Github&style=social" alt="GitHub"> </a>
