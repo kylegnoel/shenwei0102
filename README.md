@@ -1,11 +1,9 @@
 
 <img align='right' src='pepe.gif'>
 
-### Hello Explorer 👋,
+### Hello!
 
-You must have stumbled upon my Github profile using the link I gave you somewhere. Congratulations, you now can take a look at what I have to offer to the open source community or maybe your company (**wink*).
-
-My name is Shen Wei, I am a Computer Science student at Purdue University. I am also a part-time Full-stack Engineer at the Purdue Center of Career Opportunity, maintaining and building the department's website.
+Welcome to my profile, feel free to checkout any thing you find interesting!
 
 <p align="center">
 	<h3>📫 Connect with me</h3>
